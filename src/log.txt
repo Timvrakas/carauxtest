@@ -1,0 +1,397 @@
+Setup!
+Start      
+Size: 5    
+Mode: 2    
+CMD: 0 0 0 
+ 2
+Start      
+Size: 3    
+Mode: 2    
+CMD: 0 0 FB
+Start  
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Start
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FF
+Start
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 FF
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 FF
+Read Parameter Bytes: 11
+32 0 0 1 0 60 0 30 0 0 0
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Sending!
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 FF
+Start
+Start
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Sending!
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 60 0 30 0 0 0 18 13 FF
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Sending!
+Start
+Sending!
+Start
+Size: 389
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 386
+0 2 0 0 0 0 0 3C 0 0 0 3 FC 0 0 0 C0 0 C3 0 3 C0 0 0 0 0 0 0 0 0 0 3C 0 0 0 0 FC 0 0 3 F0 0 F C0 3 C0 0 0 0 0 0 0 0 0 0 3C 0 0 0 0 FC 0 F FF FF FF FF FF 3 C0 0 0 0 0 0 0 0 0 0 F 0 0 0 
+0 F0 0 0 3 F0 0 3 C0 3 0 0 0 0 0 0 0 0 0 0 F 0 0 0 0 F0 0 0 0 C0 0 3 0 F 0 0 0 0 0 0 0 0 0 0 3 C0 0 0 0 30 0 C0 0 C0 C0 3 0 3C 0 0 0 0 0 0 0 0 0 0 3 F0 0 0 0 30 3 C0 0 3 C0 0 0 FC 0 0 
+0 0 0 0 0 0 0 0 0 FC 0 0 0 0 FF FF C0 FF FF C0 3 F0 0 0 0 0 0 0 0 0 0 0 0 3F 0 0 0 0 FF FF 0 3F FC 0 F C0 0 0 0 0 0 0 0 0 0 0 0 3 F0 0 0 0 3 C0 0 3 C0 0 FC 0 0 0 0 0 0 0 0 0 0 0 0 0 FF 0 0 0 0 C0 0 0 C0 F F0 0 0 0 0 0 0 0 0 0 0 0 0 0 F FC 0 0 0 C0 0 0 3 FF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 FF F0 0 0 0 0 0 FF F0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 FF FF 0 0 F FF FC 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 FF FF FF FF FC 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 FF
+Read Parameter Bytes: 11
+32 0 0 1 0 60 0 30 0 0 0
+Sending!
+Start
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Sending!
+Start
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Sending!
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Sending!
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Sending!
+Start
+Sending!
+Start
+Size: 389
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 386
+0 2 0 0 0 0 0 3C 0 0 0 3 FC 0 0 0 C0 0 C3 0 3 C0 0 0 0 0 0 0 0 0 0 3C 0 0 0 0 FC 0 0 3 F0 0 F C0 3 C0 0 0 0 0 0 0 0 0 0 3C 0 0 0 0 FC 0 F FF FF FF FF FF 3 C0 0 0 0 0 0 0 0 0 0 F 0 0 0 
+0 F0 0 0 3 F0 0 3 C0 3 0 0 0 0 0 0 0 0 0 0 F 0 0 0 0 F0 0 0 0 C0 0 3 0 F 0 0 0 0 0 0 0 0 0 0 3 C0 0 0 0 30 0 C0 0 C0 C0 3 0 3C 0 0 0 0 0 0 0 0 0 0 3 F0 0 0 0 30 3 C0 0 3 C0 0 0 FC 0 0 
+0 0 0 0 0 0 0 0 0 FC 0 0 0 0 FF FF C0 FF FF C0 3 F0 0 0 0 0 0 0 0 0 0 0 0 3F 0 0 0 0 FF FF 0 3F FC 0 F C0 0 0 0 0 0 0 0 0 0 0 0 3 F0 0 0 0 3 C0 0 3 C0 0 FC 0 0 0 0 0 0 0 0 0 0 0 0 0 FF 0 0 0 0 C0 0 0 C0 F F0 0 0 0 0 0 0 0 0 0 0 0 0 0 F FC 0 0 0 C0 0 0 3 FF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 FF F0 0 0 0 0 0 FF F0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 FF FF 0 0 F FF FC 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 FF FF FF FF FC 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Start
+Start
+Start
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 32
+Read Parameter Bytes: 11
+0 0 1 0 60 0 30 0 0 0 18
+Start
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 5
+Mode: 2
+CMD: 0 0 0
+ 2
+Start
+Size: 3
+Mode: 2
+CMD: 0 0 FB
+Start
+Size: 3
+Mode: 0
+Invalid Cmd!
+CMD: 1 4
+Start
+Size: 14
+Mode: 4
+CMD: 0 FF
+Read Parameter Bytes: 11
+32 0 0 1 0 60 0 30 0 0 0
